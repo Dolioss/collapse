@@ -1,0 +1,404 @@
+"from","to","weight"
+"AI & Robotics","Community Response: Literature Reccomendation",69
+"AI & Robotics","Community Response: Meta-Discussion & r/collapse as Community",43
+"AI & Robotics","Community Response: Skepticism of Climate Change & Collapse",1
+"AI & Robotics","Practical Response: Adaptation & Preparedness",67
+"AI & Robotics","Practical Response: Public Awareness & Media & Information",65
+"AI & Robotics","Psychological Response: Fictional Description",16
+"AI & Robotics","Psychological Response: Mental Health & Mindset",64
+"Agriculture & Food Systems","AI & Robotics",92
+"Agriculture & Food Systems","Community Response: Literature Reccomendation",325
+"Agriculture & Food Systems","Community Response: Meta-Discussion & r/collapse as Community",277
+"Agriculture & Food Systems","Community Response: Skepticism of Climate Change & Collapse",9
+"Agriculture & Food Systems","Demographic Challenges",41
+"Agriculture & Food Systems","Foreign Affairs: Geopolitics & Conflict & War & Military",407
+"Agriculture & Food Systems","Foreign Affairs: Migration & Borders",178
+"Agriculture & Food Systems","Health Disaster & Pandemics",106
+"Agriculture & Food Systems","Internal Affairs: Riot & Murder & Civil War",126
+"Agriculture & Food Systems","Labor & Employment",244
+"Agriculture & Food Systems","Macroeconomics & Systemic Risk",357
+"Agriculture & Food Systems","Natural Disaster (Geosphere & Seismic Activity)",59
+"Agriculture & Food Systems","Nuclear Power",35
+"Agriculture & Food Systems","Personal Finance & Assets",482
+"Agriculture & Food Systems","Practical Response: Adaptation & Preparedness",418
+"Agriculture & Food Systems","Practical Response: Public Awareness & Media & Information",245
+"Agriculture & Food Systems","Psychological Response: Fictional Description",71
+"Agriculture & Food Systems","Psychological Response: Mental Health & Mindset",355
+"Agriculture & Food Systems","Real Estate Market",325
+"Agriculture & Food Systems","Societal & Cultural Decay",117
+"Agriculture & Food Systems","Systemic Inequality & Systemic Critique",197
+"Climate Change & Global Warming: Extreme Weather","AI & Robotics",30
+"Climate Change & Global Warming: Extreme Weather","Agriculture & Food Systems",241
+"Climate Change & Global Warming: Extreme Weather","Climate Change & Global Warming: Ice Caps & Cryosphere",72
+"Climate Change & Global Warming: Extreme Weather","Climate Change & Global Warming: Ocean & Hydrosphere",20
+"Climate Change & Global Warming: Extreme Weather","Community Response: Literature Reccomendation",150
+"Climate Change & Global Warming: Extreme Weather","Community Response: Meta-Discussion & r/collapse as Community",110
+"Climate Change & Global Warming: Extreme Weather","Community Response: Skepticism of Climate Change & Collapse",6
+"Climate Change & Global Warming: Extreme Weather","Demographic Challenges",9
+"Climate Change & Global Warming: Extreme Weather","Ecosystem & Biodiversity",159
+"Climate Change & Global Warming: Extreme Weather","Foreign Affairs: Geopolitics & Conflict & War & Military",174
+"Climate Change & Global Warming: Extreme Weather","Foreign Affairs: Migration & Borders",77
+"Climate Change & Global Warming: Extreme Weather","Health Disaster & Pandemics",36
+"Climate Change & Global Warming: Extreme Weather","Internal Affairs: Riot & Murder & Civil War",63
+"Climate Change & Global Warming: Extreme Weather","Labor & Employment",90
+"Climate Change & Global Warming: Extreme Weather","Macroeconomics & Systemic Risk",150
+"Climate Change & Global Warming: Extreme Weather","Natural Disaster (Geosphere & Seismic Activity)",55
+"Climate Change & Global Warming: Extreme Weather","Nuclear Power",16
+"Climate Change & Global Warming: Extreme Weather","Personal Finance & Assets",396
+"Climate Change & Global Warming: Extreme Weather","Pollution & Contamination",123
+"Climate Change & Global Warming: Extreme Weather","Practical Response: Adaptation & Preparedness",153
+"Climate Change & Global Warming: Extreme Weather","Practical Response: Public Awareness & Media & Information",108
+"Climate Change & Global Warming: Extreme Weather","Psychological Response: Fictional Description",21
+"Climate Change & Global Warming: Extreme Weather","Psychological Response: Mental Health & Mindset",159
+"Climate Change & Global Warming: Extreme Weather","Real Estate Market",132
+"Climate Change & Global Warming: Extreme Weather","Resource Depletion & Energy",270
+"Climate Change & Global Warming: Extreme Weather","Societal & Cultural Decay",53
+"Climate Change & Global Warming: Extreme Weather","Systemic Inequality & Systemic Critique",83
+"Climate Change & Global Warming: General","AI & Robotics",104
+"Climate Change & Global Warming: General","Agriculture & Food Systems",676
+"Climate Change & Global Warming: General","Climate Change & Global Warming: Extreme Weather",329
+"Climate Change & Global Warming: General","Climate Change & Global Warming: Ice Caps & Cryosphere",203
+"Climate Change & Global Warming: General","Climate Change & Global Warming: Ocean & Hydrosphere",59
+"Climate Change & Global Warming: General","Community Response: Literature Reccomendation",575
+"Climate Change & Global Warming: General","Community Response: Meta-Discussion & r/collapse as Community",384
+"Climate Change & Global Warming: General","Community Response: Skepticism of Climate Change & Collapse",15
+"Climate Change & Global Warming: General","Demographic Challenges",65
+"Climate Change & Global Warming: General","Ecosystem & Biodiversity",595
+"Climate Change & Global Warming: General","Foreign Affairs: Geopolitics & Conflict & War & Military",504
+"Climate Change & Global Warming: General","Foreign Affairs: Migration & Borders",224
+"Climate Change & Global Warming: General","Health Disaster & Pandemics",86
+"Climate Change & Global Warming: General","Internal Affairs: Riot & Murder & Civil War",175
+"Climate Change & Global Warming: General","Labor & Employment",283
+"Climate Change & Global Warming: General","Macroeconomics & Systemic Risk",459
+"Climate Change & Global Warming: General","Natural Disaster (Geosphere & Seismic Activity)",104
+"Climate Change & Global Warming: General","Nuclear Power",61
+"Climate Change & Global Warming: General","Personal Finance & Assets",665
+"Climate Change & Global Warming: General","Pollution & Contamination",410
+"Climate Change & Global Warming: General","Practical Response: Adaptation & Preparedness",504
+"Climate Change & Global Warming: General","Practical Response: Public Awareness & Media & Information",398
+"Climate Change & Global Warming: General","Psychological Response: Fictional Description",107
+"Climate Change & Global Warming: General","Psychological Response: Mental Health & Mindset",568
+"Climate Change & Global Warming: General","Real Estate Market",388
+"Climate Change & Global Warming: General","Resource Depletion & Energy",1020
+"Climate Change & Global Warming: General","Societal & Cultural Decay",166
+"Climate Change & Global Warming: General","Systemic Inequality & Systemic Critique",301
+"Climate Change & Global Warming: Ice Caps & Cryosphere","AI & Robotics",11
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Agriculture & Food Systems",88
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Climate Change & Global Warming: Ocean & Hydrosphere",19
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Community Response: Literature Reccomendation",74
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Community Response: Meta-Discussion & r/collapse as Community",45
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Community Response: Skepticism of Climate Change & Collapse",2
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Demographic Challenges",3
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Ecosystem & Biodiversity",78
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Foreign Affairs: Geopolitics & Conflict & War & Military",49
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Foreign Affairs: Migration & Borders",30
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Health Disaster & Pandemics",9
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Internal Affairs: Riot & Murder & Civil War",18
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Labor & Employment",28
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Macroeconomics & Systemic Risk",37
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Natural Disaster (Geosphere & Seismic Activity)",24
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Nuclear Power",10
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Personal Finance & Assets",81
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Pollution & Contamination",52
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Practical Response: Adaptation & Preparedness",60
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Practical Response: Public Awareness & Media & Information",54
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Psychological Response: Fictional Description",9
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Psychological Response: Mental Health & Mindset",58
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Real Estate Market",40
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Resource Depletion & Energy",115
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Societal & Cultural Decay",40
+"Climate Change & Global Warming: Ice Caps & Cryosphere","Systemic Inequality & Systemic Critique",26
+"Climate Change & Global Warming: Ocean & Hydrosphere","AI & Robotics",4
+"Climate Change & Global Warming: Ocean & Hydrosphere","Agriculture & Food Systems",36
+"Climate Change & Global Warming: Ocean & Hydrosphere","Community Response: Literature Reccomendation",20
+"Climate Change & Global Warming: Ocean & Hydrosphere","Community Response: Meta-Discussion & r/collapse as Community",14
+"Climate Change & Global Warming: Ocean & Hydrosphere","Demographic Challenges",5
+"Climate Change & Global Warming: Ocean & Hydrosphere","Ecosystem & Biodiversity",42
+"Climate Change & Global Warming: Ocean & Hydrosphere","Foreign Affairs: Geopolitics & Conflict & War & Military",20
+"Climate Change & Global Warming: Ocean & Hydrosphere","Foreign Affairs: Migration & Borders",8
+"Climate Change & Global Warming: Ocean & Hydrosphere","Health Disaster & Pandemics",3
+"Climate Change & Global Warming: Ocean & Hydrosphere","Internal Affairs: Riot & Murder & Civil War",8
+"Climate Change & Global Warming: Ocean & Hydrosphere","Labor & Employment",9
+"Climate Change & Global Warming: Ocean & Hydrosphere","Macroeconomics & Systemic Risk",18
+"Climate Change & Global Warming: Ocean & Hydrosphere","Natural Disaster (Geosphere & Seismic Activity)",6
+"Climate Change & Global Warming: Ocean & Hydrosphere","Nuclear Power",3
+"Climate Change & Global Warming: Ocean & Hydrosphere","Personal Finance & Assets",33
+"Climate Change & Global Warming: Ocean & Hydrosphere","Pollution & Contamination",30
+"Climate Change & Global Warming: Ocean & Hydrosphere","Practical Response: Adaptation & Preparedness",17
+"Climate Change & Global Warming: Ocean & Hydrosphere","Practical Response: Public Awareness & Media & Information",14
+"Climate Change & Global Warming: Ocean & Hydrosphere","Psychological Response: Fictional Description",3
+"Climate Change & Global Warming: Ocean & Hydrosphere","Psychological Response: Mental Health & Mindset",15
+"Climate Change & Global Warming: Ocean & Hydrosphere","Real Estate Market",16
+"Climate Change & Global Warming: Ocean & Hydrosphere","Resource Depletion & Energy",41
+"Climate Change & Global Warming: Ocean & Hydrosphere","Societal & Cultural Decay",8
+"Climate Change & Global Warming: Ocean & Hydrosphere","Systemic Inequality & Systemic Critique",15
+"Community Response: Literature Reccomendation","Community Response: Skepticism of Climate Change & Collapse",13
+"Community Response: Meta-Discussion & r/collapse as Community","Community Response: Literature Reccomendation",330
+"Community Response: Meta-Discussion & r/collapse as Community","Community Response: Skepticism of Climate Change & Collapse",15
+"Demographic Challenges","AI & Robotics",5
+"Demographic Challenges","Community Response: Literature Reccomendation",34
+"Demographic Challenges","Community Response: Meta-Discussion & r/collapse as Community",32
+"Demographic Challenges","Community Response: Skepticism of Climate Change & Collapse",3
+"Demographic Challenges","Foreign Affairs: Geopolitics & Conflict & War & Military",28
+"Demographic Challenges","Foreign Affairs: Migration & Borders",19
+"Demographic Challenges","Internal Affairs: Riot & Murder & Civil War",16
+"Demographic Challenges","Labor & Employment",30
+"Demographic Challenges","Macroeconomics & Systemic Risk",42
+"Demographic Challenges","Nuclear Power",2
+"Demographic Challenges","Personal Finance & Assets",43
+"Demographic Challenges","Practical Response: Adaptation & Preparedness",32
+"Demographic Challenges","Practical Response: Public Awareness & Media & Information",24
+"Demographic Challenges","Psychological Response: Fictional Description",14
+"Demographic Challenges","Psychological Response: Mental Health & Mindset",40
+"Demographic Challenges","Real Estate Market",28
+"Demographic Challenges","Societal & Cultural Decay",13
+"Demographic Challenges","Systemic Inequality & Systemic Critique",34
+"Ecosystem & Biodiversity","AI & Robotics",72
+"Ecosystem & Biodiversity","Agriculture & Food Systems",430
+"Ecosystem & Biodiversity","Community Response: Literature Reccomendation",300
+"Ecosystem & Biodiversity","Community Response: Meta-Discussion & r/collapse as Community",214
+"Ecosystem & Biodiversity","Community Response: Skepticism of Climate Change & Collapse",18
+"Ecosystem & Biodiversity","Demographic Challenges",48
+"Ecosystem & Biodiversity","Foreign Affairs: Geopolitics & Conflict & War & Military",268
+"Ecosystem & Biodiversity","Foreign Affairs: Migration & Borders",109
+"Ecosystem & Biodiversity","Health Disaster & Pandemics",67
+"Ecosystem & Biodiversity","Internal Affairs: Riot & Murder & Civil War",99
+"Ecosystem & Biodiversity","Labor & Employment",164
+"Ecosystem & Biodiversity","Macroeconomics & Systemic Risk",262
+"Ecosystem & Biodiversity","Natural Disaster (Geosphere & Seismic Activity)",47
+"Ecosystem & Biodiversity","Nuclear Power",31
+"Ecosystem & Biodiversity","Personal Finance & Assets",365
+"Ecosystem & Biodiversity","Pollution & Contamination",252
+"Ecosystem & Biodiversity","Practical Response: Adaptation & Preparedness",353
+"Ecosystem & Biodiversity","Practical Response: Public Awareness & Media & Information",217
+"Ecosystem & Biodiversity","Psychological Response: Fictional Description",70
+"Ecosystem & Biodiversity","Psychological Response: Mental Health & Mindset",340
+"Ecosystem & Biodiversity","Real Estate Market",189
+"Ecosystem & Biodiversity","Societal & Cultural Decay",82
+"Ecosystem & Biodiversity","Systemic Inequality & Systemic Critique",169
+"Foreign Affairs: Geopolitics & Conflict & War & Military","AI & Robotics",92
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Community Response: Literature Reccomendation",299
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Community Response: Meta-Discussion & r/collapse as Community",200
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Community Response: Skepticism of Climate Change & Collapse",9
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Foreign Affairs: Migration & Borders",163
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Labor & Employment",192
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Macroeconomics & Systemic Risk",312
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Nuclear Power",86
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Personal Finance & Assets",376
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Practical Response: Adaptation & Preparedness",349
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Practical Response: Public Awareness & Media & Information",221
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Psychological Response: Fictional Description",68
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Psychological Response: Mental Health & Mindset",272
+"Foreign Affairs: Geopolitics & Conflict & War & Military","Real Estate Market",218
+"Foreign Affairs: Migration & Borders","AI & Robotics",22
+"Foreign Affairs: Migration & Borders","Community Response: Literature Reccomendation",107
+"Foreign Affairs: Migration & Borders","Community Response: Meta-Discussion & r/collapse as Community",77
+"Foreign Affairs: Migration & Borders","Community Response: Skepticism of Climate Change & Collapse",5
+"Foreign Affairs: Migration & Borders","Labor & Employment",64
+"Foreign Affairs: Migration & Borders","Macroeconomics & Systemic Risk",113
+"Foreign Affairs: Migration & Borders","Nuclear Power",12
+"Foreign Affairs: Migration & Borders","Personal Finance & Assets",142
+"Foreign Affairs: Migration & Borders","Practical Response: Adaptation & Preparedness",130
+"Foreign Affairs: Migration & Borders","Practical Response: Public Awareness & Media & Information",79
+"Foreign Affairs: Migration & Borders","Psychological Response: Fictional Description",33
+"Foreign Affairs: Migration & Borders","Psychological Response: Mental Health & Mindset",115
+"Foreign Affairs: Migration & Borders","Real Estate Market",100
+"Health Disaster & Pandemics","AI & Robotics",19
+"Health Disaster & Pandemics","Community Response: Literature Reccomendation",69
+"Health Disaster & Pandemics","Community Response: Meta-Discussion & r/collapse as Community",55
+"Health Disaster & Pandemics","Community Response: Skepticism of Climate Change & Collapse",3
+"Health Disaster & Pandemics","Demographic Challenges",12
+"Health Disaster & Pandemics","Foreign Affairs: Geopolitics & Conflict & War & Military",77
+"Health Disaster & Pandemics","Foreign Affairs: Migration & Borders",21
+"Health Disaster & Pandemics","Internal Affairs: Riot & Murder & Civil War",25
+"Health Disaster & Pandemics","Labor & Employment",51
+"Health Disaster & Pandemics","Macroeconomics & Systemic Risk",59
+"Health Disaster & Pandemics","Nuclear Power",7
+"Health Disaster & Pandemics","Personal Finance & Assets",94
+"Health Disaster & Pandemics","Practical Response: Adaptation & Preparedness",82
+"Health Disaster & Pandemics","Practical Response: Public Awareness & Media & Information",46
+"Health Disaster & Pandemics","Psychological Response: Fictional Description",16
+"Health Disaster & Pandemics","Psychological Response: Mental Health & Mindset",84
+"Health Disaster & Pandemics","Real Estate Market",62
+"Health Disaster & Pandemics","Societal & Cultural Decay",24
+"Health Disaster & Pandemics","Systemic Inequality & Systemic Critique",47
+"Internal Affairs: Riot & Murder & Civil War","AI & Robotics",23
+"Internal Affairs: Riot & Murder & Civil War","Community Response: Literature Reccomendation",104
+"Internal Affairs: Riot & Murder & Civil War","Community Response: Meta-Discussion & r/collapse as Community",87
+"Internal Affairs: Riot & Murder & Civil War","Community Response: Skepticism of Climate Change & Collapse",6
+"Internal Affairs: Riot & Murder & Civil War","Foreign Affairs: Geopolitics & Conflict & War & Military",175
+"Internal Affairs: Riot & Murder & Civil War","Foreign Affairs: Migration & Borders",51
+"Internal Affairs: Riot & Murder & Civil War","Labor & Employment",69
+"Internal Affairs: Riot & Murder & Civil War","Macroeconomics & Systemic Risk",110
+"Internal Affairs: Riot & Murder & Civil War","Nuclear Power",13
+"Internal Affairs: Riot & Murder & Civil War","Personal Finance & Assets",140
+"Internal Affairs: Riot & Murder & Civil War","Practical Response: Adaptation & Preparedness",107
+"Internal Affairs: Riot & Murder & Civil War","Practical Response: Public Awareness & Media & Information",82
+"Internal Affairs: Riot & Murder & Civil War","Psychological Response: Fictional Description",22
+"Internal Affairs: Riot & Murder & Civil War","Psychological Response: Mental Health & Mindset",123
+"Internal Affairs: Riot & Murder & Civil War","Real Estate Market",94
+"Labor & Employment","AI & Robotics",253
+"Labor & Employment","Community Response: Literature Reccomendation",175
+"Labor & Employment","Community Response: Meta-Discussion & r/collapse as Community",155
+"Labor & Employment","Community Response: Skepticism of Climate Change & Collapse",6
+"Labor & Employment","Nuclear Power",17
+"Labor & Employment","Practical Response: Adaptation & Preparedness",194
+"Labor & Employment","Practical Response: Public Awareness & Media & Information",151
+"Labor & Employment","Psychological Response: Fictional Description",42
+"Labor & Employment","Psychological Response: Mental Health & Mindset",212
+"Macroeconomics & Systemic Risk","AI & Robotics",97
+"Macroeconomics & Systemic Risk","Community Response: Literature Reccomendation",256
+"Macroeconomics & Systemic Risk","Community Response: Meta-Discussion & r/collapse as Community",203
+"Macroeconomics & Systemic Risk","Community Response: Skepticism of Climate Change & Collapse",14
+"Macroeconomics & Systemic Risk","Labor & Employment",293
+"Macroeconomics & Systemic Risk","Nuclear Power",34
+"Macroeconomics & Systemic Risk","Personal Finance & Assets",458
+"Macroeconomics & Systemic Risk","Practical Response: Adaptation & Preparedness",279
+"Macroeconomics & Systemic Risk","Practical Response: Public Awareness & Media & Information",190
+"Macroeconomics & Systemic Risk","Psychological Response: Fictional Description",67
+"Macroeconomics & Systemic Risk","Psychological Response: Mental Health & Mindset",299
+"Macroeconomics & Systemic Risk","Real Estate Market",306
+"Natural Disaster (Geosphere & Seismic Activity)","AI & Robotics",14
+"Natural Disaster (Geosphere & Seismic Activity)","Community Response: Literature Reccomendation",57
+"Natural Disaster (Geosphere & Seismic Activity)","Community Response: Meta-Discussion & r/collapse as Community",33
+"Natural Disaster (Geosphere & Seismic Activity)","Community Response: Skepticism of Climate Change & Collapse",2
+"Natural Disaster (Geosphere & Seismic Activity)","Foreign Affairs: Geopolitics & Conflict & War & Military",60
+"Natural Disaster (Geosphere & Seismic Activity)","Foreign Affairs: Migration & Borders",23
+"Natural Disaster (Geosphere & Seismic Activity)","Health Disaster & Pandemics",12
+"Natural Disaster (Geosphere & Seismic Activity)","Internal Affairs: Riot & Murder & Civil War",22
+"Natural Disaster (Geosphere & Seismic Activity)","Labor & Employment",37
+"Natural Disaster (Geosphere & Seismic Activity)","Macroeconomics & Systemic Risk",47
+"Natural Disaster (Geosphere & Seismic Activity)","Nuclear Power",7
+"Natural Disaster (Geosphere & Seismic Activity)","Personal Finance & Assets",65
+"Natural Disaster (Geosphere & Seismic Activity)","Practical Response: Adaptation & Preparedness",53
+"Natural Disaster (Geosphere & Seismic Activity)","Practical Response: Public Awareness & Media & Information",33
+"Natural Disaster (Geosphere & Seismic Activity)","Psychological Response: Fictional Description",5
+"Natural Disaster (Geosphere & Seismic Activity)","Psychological Response: Mental Health & Mindset",47
+"Natural Disaster (Geosphere & Seismic Activity)","Real Estate Market",52
+"Natural Disaster (Geosphere & Seismic Activity)","Societal & Cultural Decay",20
+"Natural Disaster (Geosphere & Seismic Activity)","Systemic Inequality & Systemic Critique",27
+"Nuclear Power","AI & Robotics",11
+"Nuclear Power","Community Response: Literature Reccomendation",27
+"Nuclear Power","Community Response: Meta-Discussion & r/collapse as Community",13
+"Nuclear Power","Practical Response: Adaptation & Preparedness",30
+"Nuclear Power","Practical Response: Public Awareness & Media & Information",13
+"Nuclear Power","Psychological Response: Fictional Description",6
+"Nuclear Power","Psychological Response: Mental Health & Mindset",22
+"Personal Finance & Assets","AI & Robotics",111
+"Personal Finance & Assets","Community Response: Literature Reccomendation",388
+"Personal Finance & Assets","Community Response: Meta-Discussion & r/collapse as Community",284
+"Personal Finance & Assets","Community Response: Skepticism of Climate Change & Collapse",20
+"Personal Finance & Assets","Labor & Employment",318
+"Personal Finance & Assets","Nuclear Power",46
+"Personal Finance & Assets","Practical Response: Adaptation & Preparedness",455
+"Personal Finance & Assets","Practical Response: Public Awareness & Media & Information",271
+"Personal Finance & Assets","Psychological Response: Fictional Description",102
+"Personal Finance & Assets","Psychological Response: Mental Health & Mindset",453
+"Personal Finance & Assets","Real Estate Market",580
+"Pollution & Contamination","AI & Robotics",58
+"Pollution & Contamination","Agriculture & Food Systems",302
+"Pollution & Contamination","Community Response: Literature Reccomendation",210
+"Pollution & Contamination","Community Response: Meta-Discussion & r/collapse as Community",130
+"Pollution & Contamination","Community Response: Skepticism of Climate Change & Collapse",5
+"Pollution & Contamination","Demographic Challenges",31
+"Pollution & Contamination","Foreign Affairs: Geopolitics & Conflict & War & Military",207
+"Pollution & Contamination","Foreign Affairs: Migration & Borders",64
+"Pollution & Contamination","Health Disaster & Pandemics",43
+"Pollution & Contamination","Internal Affairs: Riot & Murder & Civil War",66
+"Pollution & Contamination","Labor & Employment",133
+"Pollution & Contamination","Macroeconomics & Systemic Risk",194
+"Pollution & Contamination","Natural Disaster (Geosphere & Seismic Activity)",43
+"Pollution & Contamination","Nuclear Power",28
+"Pollution & Contamination","Personal Finance & Assets",288
+"Pollution & Contamination","Practical Response: Adaptation & Preparedness",182
+"Pollution & Contamination","Practical Response: Public Awareness & Media & Information",146
+"Pollution & Contamination","Psychological Response: Fictional Description",35
+"Pollution & Contamination","Psychological Response: Mental Health & Mindset",200
+"Pollution & Contamination","Real Estate Market",178
+"Pollution & Contamination","Societal & Cultural Decay",74
+"Pollution & Contamination","Systemic Inequality & Systemic Critique",116
+"Practical Response: Adaptation & Preparedness","Community Response: Literature Reccomendation",320
+"Practical Response: Adaptation & Preparedness","Community Response: Meta-Discussion & r/collapse as Community",264
+"Practical Response: Adaptation & Preparedness","Community Response: Skepticism of Climate Change & Collapse",13
+"Practical Response: Adaptation & Preparedness","Practical Response: Public Awareness & Media & Information",224
+"Practical Response: Public Awareness & Media & Information","Community Response: Literature Reccomendation",521
+"Practical Response: Public Awareness & Media & Information","Community Response: Meta-Discussion & r/collapse as Community",225
+"Practical Response: Public Awareness & Media & Information","Community Response: Skepticism of Climate Change & Collapse",11
+"Psychological Response: Fictional Description","Community Response: Literature Reccomendation",311
+"Psychological Response: Fictional Description","Community Response: Meta-Discussion & r/collapse as Community",75
+"Psychological Response: Fictional Description","Community Response: Skepticism of Climate Change & Collapse",3
+"Psychological Response: Fictional Description","Practical Response: Adaptation & Preparedness",85
+"Psychological Response: Fictional Description","Practical Response: Public Awareness & Media & Information",68
+"Psychological Response: Mental Health & Mindset","Community Response: Literature Reccomendation",359
+"Psychological Response: Mental Health & Mindset","Community Response: Meta-Discussion & r/collapse as Community",333
+"Psychological Response: Mental Health & Mindset","Community Response: Skepticism of Climate Change & Collapse",24
+"Psychological Response: Mental Health & Mindset","Practical Response: Adaptation & Preparedness",392
+"Psychological Response: Mental Health & Mindset","Practical Response: Public Awareness & Media & Information",263
+"Psychological Response: Mental Health & Mindset","Psychological Response: Fictional Description",84
+"Real Estate Market","AI & Robotics",62
+"Real Estate Market","Community Response: Literature Reccomendation",230
+"Real Estate Market","Community Response: Meta-Discussion & r/collapse as Community",167
+"Real Estate Market","Community Response: Skepticism of Climate Change & Collapse",9
+"Real Estate Market","Labor & Employment",173
+"Real Estate Market","Nuclear Power",14
+"Real Estate Market","Practical Response: Adaptation & Preparedness",274
+"Real Estate Market","Practical Response: Public Awareness & Media & Information",156
+"Real Estate Market","Psychological Response: Fictional Description",56
+"Real Estate Market","Psychological Response: Mental Health & Mindset",255
+"Resource Depletion & Energy","AI & Robotics",133
+"Resource Depletion & Energy","Agriculture & Food Systems",696
+"Resource Depletion & Energy","Community Response: Literature Reccomendation",503
+"Resource Depletion & Energy","Community Response: Meta-Discussion & r/collapse as Community",346
+"Resource Depletion & Energy","Community Response: Skepticism of Climate Change & Collapse",15
+"Resource Depletion & Energy","Demographic Challenges",58
+"Resource Depletion & Energy","Ecosystem & Biodiversity",515
+"Resource Depletion & Energy","Foreign Affairs: Geopolitics & Conflict & War & Military",661
+"Resource Depletion & Energy","Foreign Affairs: Migration & Borders",188
+"Resource Depletion & Energy","Health Disaster & Pandemics",103
+"Resource Depletion & Energy","Internal Affairs: Riot & Murder & Civil War",159
+"Resource Depletion & Energy","Labor & Employment",298
+"Resource Depletion & Energy","Macroeconomics & Systemic Risk",537
+"Resource Depletion & Energy","Natural Disaster (Geosphere & Seismic Activity)",87
+"Resource Depletion & Energy","Nuclear Power",88
+"Resource Depletion & Energy","Personal Finance & Assets",707
+"Resource Depletion & Energy","Pollution & Contamination",420
+"Resource Depletion & Energy","Practical Response: Adaptation & Preparedness",539
+"Resource Depletion & Energy","Practical Response: Public Awareness & Media & Information",341
+"Resource Depletion & Energy","Psychological Response: Fictional Description",119
+"Resource Depletion & Energy","Psychological Response: Mental Health & Mindset",487
+"Resource Depletion & Energy","Real Estate Market",446
+"Resource Depletion & Energy","Societal & Cultural Decay",146
+"Resource Depletion & Energy","Systemic Inequality & Systemic Critique",311
+"Societal & Cultural Decay","AI & Robotics",39
+"Societal & Cultural Decay","Community Response: Literature Reccomendation",100
+"Societal & Cultural Decay","Community Response: Meta-Discussion & r/collapse as Community",69
+"Societal & Cultural Decay","Community Response: Skepticism of Climate Change & Collapse",4
+"Societal & Cultural Decay","Foreign Affairs: Geopolitics & Conflict & War & Military",112
+"Societal & Cultural Decay","Foreign Affairs: Migration & Borders",40
+"Societal & Cultural Decay","Internal Affairs: Riot & Murder & Civil War",84
+"Societal & Cultural Decay","Labor & Employment",83
+"Societal & Cultural Decay","Macroeconomics & Systemic Risk",107
+"Societal & Cultural Decay","Nuclear Power",15
+"Societal & Cultural Decay","Personal Finance & Assets",131
+"Societal & Cultural Decay","Practical Response: Adaptation & Preparedness",83
+"Societal & Cultural Decay","Practical Response: Public Awareness & Media & Information",91
+"Societal & Cultural Decay","Psychological Response: Fictional Description",17
+"Societal & Cultural Decay","Psychological Response: Mental Health & Mindset",95
+"Societal & Cultural Decay","Real Estate Market",71
+"Societal & Cultural Decay","Systemic Inequality & Systemic Critique",85
+"Systemic Inequality & Systemic Critique","AI & Robotics",56
+"Systemic Inequality & Systemic Critique","Community Response: Literature Reccomendation",187
+"Systemic Inequality & Systemic Critique","Community Response: Meta-Discussion & r/collapse as Community",155
+"Systemic Inequality & Systemic Critique","Community Response: Skepticism of Climate Change & Collapse",14
+"Systemic Inequality & Systemic Critique","Foreign Affairs: Geopolitics & Conflict & War & Military",233
+"Systemic Inequality & Systemic Critique","Foreign Affairs: Migration & Borders",87
+"Systemic Inequality & Systemic Critique","Internal Affairs: Riot & Murder & Civil War",73
+"Systemic Inequality & Systemic Critique","Labor & Employment",180
+"Systemic Inequality & Systemic Critique","Macroeconomics & Systemic Risk",444
+"Systemic Inequality & Systemic Critique","Nuclear Power",18
+"Systemic Inequality & Systemic Critique","Personal Finance & Assets",253
+"Systemic Inequality & Systemic Critique","Practical Response: Adaptation & Preparedness",196
+"Systemic Inequality & Systemic Critique","Practical Response: Public Awareness & Media & Information",140
+"Systemic Inequality & Systemic Critique","Psychological Response: Fictional Description",53
+"Systemic Inequality & Systemic Critique","Psychological Response: Mental Health & Mindset",188
+"Systemic Inequality & Systemic Critique","Real Estate Market",155

@@ -1,0 +1,99 @@
+---
+title: "Loading the data"
+format: html
+editor: visual
+---
+
+## Loading the data
+
+```{r}
+setwd(getwd())
+```
+
+```{r}
+library(tidyverse)
+library(jsonlite)
+read_jsonl_file <- function(file_path) {
+  stream_in(file(file_path), verbose = FALSE) |>
+    select(any_of(c(
+      "subreddit", "created_utc", "author", "title", "selftext",
+      "id", "retrieved_on", "score", "url"
+    ))) |>
+    as_tibble()
+}
+```
+
+```{r}
+data <- read_jsonl_file("r_collapse_posts.jsonl")
+write_csv(data, "r_collapse_posts.csv")
+```
+
+## Cleaning the data
+
+```{r}
+# Keeping only posts with text
+cleaned_data <- data[
+  !is.na(data$selftext) &
+  data$selftext != "" &
+  data$selftext != "[removed]" &
+  data$selftext != "[deleted]",
+]
+```
+
+```{r}
+# Prepare for topic modeling
+text_data <- cleaned_data %>%
+  select(post_id = id, text = selftext)
+```
+
+## Topic modelling (STM)
+
+```{r}
+library(stm)
+processed <- textProcessor(
+  documents = text_data$text,
+  metadata = text_data %>% select(-text),
+  customstopwords =  c('can', 'use', 'get', 'one', 'will', 'collapse', 
+                      'human', 'world', 'people', 'like', 'one', 'year', 'yearly',
+                      'see', 'time', 'look', 'just', 'will', 'need',
+                      'post', 'read', 'sub', 'find', 'think', 'thought', 
+                      'discuss', 'now', 'back', 'month', 'global', 'increase',
+                      'think', 'civilisation', 'now', 'dont', 'want', 'thing',
+                      'that', 'even', 'mean', 'citizen', 'live', 'life', 'know', 
+                      'make', 'feel', 'way', 'think', 'say', 'end', 'start')
+)
+```
+
+```{r}
+out <- prepDocuments(
+  documents = processed$documents,
+  vocab = processed$vocab,
+  meta = processed$meta
+)
+
+docs <- out$documents
+vocab <- out$vocab
+meta  <- out$meta
+```
+
+```{r}
+K <- 15  
+
+stm_model <- stm(
+  documents = docs,
+  vocab = vocab,
+  K = K,
+  data = meta,
+  max.em.its = 25,          
+  init.type = "Spectral",
+  verbose = FALSE
+)
+```
+
+```{r}
+labelTopics(stm_model)
+```
+
+```{r}
+plot(stm_model, type = "summary")
+```

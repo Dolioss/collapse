@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd" version="1.3">
+  <meta lastmodifieddate="2025-12-17">
+    <creator>NodosChile</creator>
+    <description>A GEXF file written in R with "rgexf"</description>
+    <keywords>GEXF, NodosChile, R, rgexf, Gephi</keywords>
+  </meta>
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node" mode="static">
+      <attribute id="att1" title="freq" type="float"/>
+      <attribute id="att2" title="level1" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="AI &amp; Robotics" label="AI &amp; Robotics">
+        <attvalues>
+          <attvalue for="att1" value="256"/>
+          <attvalue for="att2" value="Technology"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="133.811637074354" y="32.5851442853183" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Agriculture &amp; Food Systems" label="Agriculture &amp; Food Systems">
+        <attvalues>
+          <attvalue for="att1" value="1406"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-93.3937542096896" y="79.7709514749815" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Climate Change &amp; Global Warming: Extreme Weather" label="Climate Change &amp; Global Warming: Extreme Weather">
+        <attvalues>
+          <attvalue for="att1" value="586"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-219.068674212058" y="0.382793600613951" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Climate Change &amp; Global Warming: General" label="Climate Change &amp; Global Warming: General">
+        <attvalues>
+          <attvalue for="att1" value="2465"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="238.265749878642" y="0.422803259620309" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" label="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere">
+        <attvalues>
+          <attvalue for="att1" value="285"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-144.479343767641" y="-202.897821837791" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" label="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere">
+        <attvalues>
+          <attvalue for="att1" value="68"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="65.5102882014589" y="176.629402921386" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Community Response: Literature Reccomendation" label="Community Response: Literature Reccomendation">
+        <attvalues>
+          <attvalue for="att1" value="1354"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-212.057858537023" y="-10.7075820332681" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Community Response: Meta-Discussion &amp; r/collapse as Community" label="Community Response: Meta-Discussion &amp; r/collapse as Community">
+        <attvalues>
+          <attvalue for="att1" value="1141"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-70.1881915845291" y="22.3203095296813" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Community Response: Skepticism of Climate Change &amp; Collapse" label="Community Response: Skepticism of Climate Change &amp; Collapse">
+        <attvalues>
+          <attvalue for="att1" value="44"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="69.3558891398378" y="112.029324921085" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Demographic Challenges" label="Demographic Challenges">
+        <attvalues>
+          <attvalue for="att1" value="121"/>
+          <attvalue for="att2" value="Society &amp; Politics"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="119.163059855229" y="11.1140755367215" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Ecosystem &amp; Biodiversity" label="Ecosystem &amp; Biodiversity">
+        <attvalues>
+          <attvalue for="att1" value="1134"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="16.0754449121551" y="250" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" label="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military">
+        <attvalues>
+          <attvalue for="att1" value="1102"/>
+          <attvalue for="att2" value="Society &amp; Politics"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="21.2722509892561" y="80.9727518507363" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Foreign Affairs: Migration &amp; Borders" label="Foreign Affairs: Migration &amp; Borders">
+        <attvalues>
+          <attvalue for="att1" value="394"/>
+          <attvalue for="att2" value="Society &amp; Politics"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="156.539392862063" y="130.966361822144" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Health Disaster &amp; Pandemics" label="Health Disaster &amp; Pandemics">
+        <attvalues>
+          <attvalue for="att1" value="227"/>
+          <attvalue for="att2" value="Disaster"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-34.5124120373204" y="55.1879851477585" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Internal Affairs: Riot &amp; Murder &amp; Civil War" label="Internal Affairs: Riot &amp; Murder &amp; Civil War">
+        <attvalues>
+          <attvalue for="att1" value="374"/>
+          <attvalue for="att2" value="Society &amp; Politics"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="37.2826273254868" y="-57.1664057392547" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Labor &amp; Employment" label="Labor &amp; Employment">
+        <attvalues>
+          <attvalue for="att1" value="690"/>
+          <attvalue for="att2" value="Economy"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="170.552343460158" y="94.3367411082896" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Macroeconomics &amp; Systemic Risk" label="Macroeconomics &amp; Systemic Risk">
+        <attvalues>
+          <attvalue for="att1" value="1111"/>
+          <attvalue for="att2" value="Economy"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-52.5107659044671" y="-250" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Natural Disaster (Geosphere &amp; Seismic Activity)" label="Natural Disaster (Geosphere &amp; Seismic Activity)">
+        <attvalues>
+          <attvalue for="att1" value="189"/>
+          <attvalue for="att2" value="Disaster"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-76.5754915303418" y="-128.037034518311" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Nuclear Power" label="Nuclear Power">
+        <attvalues>
+          <attvalue for="att1" value="101"/>
+          <attvalue for="att2" value="Technology"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="140.202145154253" y="67.7281637121088" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Personal Finance &amp; Assets" label="Personal Finance &amp; Assets">
+        <attvalues>
+          <attvalue for="att1" value="1595"/>
+          <attvalue for="att2" value="Economy"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="30.668218016322" y="-152.12810826357" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Pollution &amp; Contamination" label="Pollution &amp; Contamination">
+        <attvalues>
+          <attvalue for="att1" value="754"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-250" y="-44.3124226620828" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Practical Response: Adaptation &amp; Preparedness" label="Practical Response: Adaptation &amp; Preparedness">
+        <attvalues>
+          <attvalue for="att1" value="1363"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-133.590518342303" y="239.451911640663" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Practical Response: Public Awareness &amp; Media &amp; Information" label="Practical Response: Public Awareness &amp; Media &amp; Information">
+        <attvalues>
+          <attvalue for="att1" value="887"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="81.4239746158083" y="133.511054854508" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Psychological Response: Fictional Description" label="Psychological Response: Fictional Description">
+        <attvalues>
+          <attvalue for="att1" value="312"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="44.9555039114362" y="31.7888983468907" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Psychological Response: Mental Health &amp; Mindset" label="Psychological Response: Mental Health &amp; Mindset">
+        <attvalues>
+          <attvalue for="att1" value="1337"/>
+          <attvalue for="att2" value="Human Response"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-75.8244010285416" y="-28.7691034120819" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Real Estate Market" label="Real Estate Market">
+        <attvalues>
+          <attvalue for="att1" value="914"/>
+          <attvalue for="att2" value="Economy"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="250" y="97.9711777298784" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Resource Depletion &amp; Energy" label="Resource Depletion &amp; Energy">
+        <attvalues>
+          <attvalue for="att1" value="2094"/>
+          <attvalue for="att2" value="Environment"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-176.664203743622" y="-148.520847608193" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Societal &amp; Cultural Decay" label="Societal &amp; Cultural Decay">
+        <attvalues>
+          <attvalue for="att1" value="335"/>
+          <attvalue for="att2" value="Society &amp; Politics"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="-151.309351995869" y="-183.174317815337" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Systemic Inequality &amp; Systemic Critique" label="Systemic Inequality &amp; Systemic Critique">
+        <attvalues>
+          <attvalue for="att1" value="689"/>
+          <attvalue for="att2" value="Society &amp; Politics"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="236.88755103079" y="123.901934538386" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+      <node id="Unclassifiable" label="Unclassifiable">
+        <attvalues>
+          <attvalue for="att1" value="1487"/>
+          <attvalue for="att2" value="Unclassifiable"/>
+        </attvalues>
+        <viz:color r="255" g="99" b="71" a="1"/>
+        <viz:position x="78.6651314588261" y="164.728795718293" z="0"/>
+        <viz:size value="16.6666666666667"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="AI &amp; Robotics" target="Community Response: Literature Reccomendation" weight="69"/>
+      <edge id="1" source="AI &amp; Robotics" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="43"/>
+      <edge id="2" source="AI &amp; Robotics" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="1"/>
+      <edge id="3" source="AI &amp; Robotics" target="Practical Response: Adaptation &amp; Preparedness" weight="67"/>
+      <edge id="4" source="AI &amp; Robotics" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="65"/>
+      <edge id="5" source="AI &amp; Robotics" target="Psychological Response: Fictional Description" weight="16"/>
+      <edge id="6" source="AI &amp; Robotics" target="Psychological Response: Mental Health &amp; Mindset" weight="64"/>
+      <edge id="7" source="Agriculture &amp; Food Systems" target="AI &amp; Robotics" weight="92"/>
+      <edge id="8" source="Agriculture &amp; Food Systems" target="Community Response: Literature Reccomendation" weight="325"/>
+      <edge id="9" source="Agriculture &amp; Food Systems" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="277"/>
+      <edge id="10" source="Agriculture &amp; Food Systems" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="9"/>
+      <edge id="11" source="Agriculture &amp; Food Systems" target="Demographic Challenges" weight="41"/>
+      <edge id="12" source="Agriculture &amp; Food Systems" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="407"/>
+      <edge id="13" source="Agriculture &amp; Food Systems" target="Foreign Affairs: Migration &amp; Borders" weight="178"/>
+      <edge id="14" source="Agriculture &amp; Food Systems" target="Health Disaster &amp; Pandemics" weight="106"/>
+      <edge id="15" source="Agriculture &amp; Food Systems" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="126"/>
+      <edge id="16" source="Agriculture &amp; Food Systems" target="Labor &amp; Employment" weight="244"/>
+      <edge id="17" source="Agriculture &amp; Food Systems" target="Macroeconomics &amp; Systemic Risk" weight="357"/>
+      <edge id="18" source="Agriculture &amp; Food Systems" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="59"/>
+      <edge id="19" source="Agriculture &amp; Food Systems" target="Nuclear Power" weight="35"/>
+      <edge id="20" source="Agriculture &amp; Food Systems" target="Personal Finance &amp; Assets" weight="482"/>
+      <edge id="21" source="Agriculture &amp; Food Systems" target="Practical Response: Adaptation &amp; Preparedness" weight="418"/>
+      <edge id="22" source="Agriculture &amp; Food Systems" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="245"/>
+      <edge id="23" source="Agriculture &amp; Food Systems" target="Psychological Response: Fictional Description" weight="71"/>
+      <edge id="24" source="Agriculture &amp; Food Systems" target="Psychological Response: Mental Health &amp; Mindset" weight="355"/>
+      <edge id="25" source="Agriculture &amp; Food Systems" target="Real Estate Market" weight="325"/>
+      <edge id="26" source="Agriculture &amp; Food Systems" target="Societal &amp; Cultural Decay" weight="117"/>
+      <edge id="27" source="Agriculture &amp; Food Systems" target="Systemic Inequality &amp; Systemic Critique" weight="197"/>
+      <edge id="28" source="Climate Change &amp; Global Warming: Extreme Weather" target="AI &amp; Robotics" weight="30"/>
+      <edge id="29" source="Climate Change &amp; Global Warming: Extreme Weather" target="Agriculture &amp; Food Systems" weight="241"/>
+      <edge id="30" source="Climate Change &amp; Global Warming: Extreme Weather" target="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" weight="72"/>
+      <edge id="31" source="Climate Change &amp; Global Warming: Extreme Weather" target="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" weight="20"/>
+      <edge id="32" source="Climate Change &amp; Global Warming: Extreme Weather" target="Community Response: Literature Reccomendation" weight="150"/>
+      <edge id="33" source="Climate Change &amp; Global Warming: Extreme Weather" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="110"/>
+      <edge id="34" source="Climate Change &amp; Global Warming: Extreme Weather" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="6"/>
+      <edge id="35" source="Climate Change &amp; Global Warming: Extreme Weather" target="Demographic Challenges" weight="9"/>
+      <edge id="36" source="Climate Change &amp; Global Warming: Extreme Weather" target="Ecosystem &amp; Biodiversity" weight="159"/>
+      <edge id="37" source="Climate Change &amp; Global Warming: Extreme Weather" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="174"/>
+      <edge id="38" source="Climate Change &amp; Global Warming: Extreme Weather" target="Foreign Affairs: Migration &amp; Borders" weight="77"/>
+      <edge id="39" source="Climate Change &amp; Global Warming: Extreme Weather" target="Health Disaster &amp; Pandemics" weight="36"/>
+      <edge id="40" source="Climate Change &amp; Global Warming: Extreme Weather" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="63"/>
+      <edge id="41" source="Climate Change &amp; Global Warming: Extreme Weather" target="Labor &amp; Employment" weight="90"/>
+      <edge id="42" source="Climate Change &amp; Global Warming: Extreme Weather" target="Macroeconomics &amp; Systemic Risk" weight="150"/>
+      <edge id="43" source="Climate Change &amp; Global Warming: Extreme Weather" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="55"/>
+      <edge id="44" source="Climate Change &amp; Global Warming: Extreme Weather" target="Nuclear Power" weight="16"/>
+      <edge id="45" source="Climate Change &amp; Global Warming: Extreme Weather" target="Personal Finance &amp; Assets" weight="396"/>
+      <edge id="46" source="Climate Change &amp; Global Warming: Extreme Weather" target="Pollution &amp; Contamination" weight="123"/>
+      <edge id="47" source="Climate Change &amp; Global Warming: Extreme Weather" target="Practical Response: Adaptation &amp; Preparedness" weight="153"/>
+      <edge id="48" source="Climate Change &amp; Global Warming: Extreme Weather" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="108"/>
+      <edge id="49" source="Climate Change &amp; Global Warming: Extreme Weather" target="Psychological Response: Fictional Description" weight="21"/>
+      <edge id="50" source="Climate Change &amp; Global Warming: Extreme Weather" target="Psychological Response: Mental Health &amp; Mindset" weight="159"/>
+      <edge id="51" source="Climate Change &amp; Global Warming: Extreme Weather" target="Real Estate Market" weight="132"/>
+      <edge id="52" source="Climate Change &amp; Global Warming: Extreme Weather" target="Resource Depletion &amp; Energy" weight="270"/>
+      <edge id="53" source="Climate Change &amp; Global Warming: Extreme Weather" target="Societal &amp; Cultural Decay" weight="53"/>
+      <edge id="54" source="Climate Change &amp; Global Warming: Extreme Weather" target="Systemic Inequality &amp; Systemic Critique" weight="83"/>
+      <edge id="55" source="Climate Change &amp; Global Warming: General" target="AI &amp; Robotics" weight="104"/>
+      <edge id="56" source="Climate Change &amp; Global Warming: General" target="Agriculture &amp; Food Systems" weight="676"/>
+      <edge id="57" source="Climate Change &amp; Global Warming: General" target="Climate Change &amp; Global Warming: Extreme Weather" weight="329"/>
+      <edge id="58" source="Climate Change &amp; Global Warming: General" target="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" weight="203"/>
+      <edge id="59" source="Climate Change &amp; Global Warming: General" target="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" weight="59"/>
+      <edge id="60" source="Climate Change &amp; Global Warming: General" target="Community Response: Literature Reccomendation" weight="575"/>
+      <edge id="61" source="Climate Change &amp; Global Warming: General" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="384"/>
+      <edge id="62" source="Climate Change &amp; Global Warming: General" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="15"/>
+      <edge id="63" source="Climate Change &amp; Global Warming: General" target="Demographic Challenges" weight="65"/>
+      <edge id="64" source="Climate Change &amp; Global Warming: General" target="Ecosystem &amp; Biodiversity" weight="595"/>
+      <edge id="65" source="Climate Change &amp; Global Warming: General" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="504"/>
+      <edge id="66" source="Climate Change &amp; Global Warming: General" target="Foreign Affairs: Migration &amp; Borders" weight="224"/>
+      <edge id="67" source="Climate Change &amp; Global Warming: General" target="Health Disaster &amp; Pandemics" weight="86"/>
+      <edge id="68" source="Climate Change &amp; Global Warming: General" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="175"/>
+      <edge id="69" source="Climate Change &amp; Global Warming: General" target="Labor &amp; Employment" weight="283"/>
+      <edge id="70" source="Climate Change &amp; Global Warming: General" target="Macroeconomics &amp; Systemic Risk" weight="459"/>
+      <edge id="71" source="Climate Change &amp; Global Warming: General" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="104"/>
+      <edge id="72" source="Climate Change &amp; Global Warming: General" target="Nuclear Power" weight="61"/>
+      <edge id="73" source="Climate Change &amp; Global Warming: General" target="Personal Finance &amp; Assets" weight="665"/>
+      <edge id="74" source="Climate Change &amp; Global Warming: General" target="Pollution &amp; Contamination" weight="410"/>
+      <edge id="75" source="Climate Change &amp; Global Warming: General" target="Practical Response: Adaptation &amp; Preparedness" weight="504"/>
+      <edge id="76" source="Climate Change &amp; Global Warming: General" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="398"/>
+      <edge id="77" source="Climate Change &amp; Global Warming: General" target="Psychological Response: Fictional Description" weight="107"/>
+      <edge id="78" source="Climate Change &amp; Global Warming: General" target="Psychological Response: Mental Health &amp; Mindset" weight="568"/>
+      <edge id="79" source="Climate Change &amp; Global Warming: General" target="Real Estate Market" weight="388"/>
+      <edge id="80" source="Climate Change &amp; Global Warming: General" target="Resource Depletion &amp; Energy" weight="1020"/>
+      <edge id="81" source="Climate Change &amp; Global Warming: General" target="Societal &amp; Cultural Decay" weight="166"/>
+      <edge id="82" source="Climate Change &amp; Global Warming: General" target="Systemic Inequality &amp; Systemic Critique" weight="301"/>
+      <edge id="83" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="AI &amp; Robotics" weight="11"/>
+      <edge id="84" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Agriculture &amp; Food Systems" weight="88"/>
+      <edge id="85" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" weight="19"/>
+      <edge id="86" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Community Response: Literature Reccomendation" weight="74"/>
+      <edge id="87" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="45"/>
+      <edge id="88" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="2"/>
+      <edge id="89" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Demographic Challenges" weight="3"/>
+      <edge id="90" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Ecosystem &amp; Biodiversity" weight="78"/>
+      <edge id="91" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="49"/>
+      <edge id="92" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Foreign Affairs: Migration &amp; Borders" weight="30"/>
+      <edge id="93" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Health Disaster &amp; Pandemics" weight="9"/>
+      <edge id="94" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="18"/>
+      <edge id="95" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Labor &amp; Employment" weight="28"/>
+      <edge id="96" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Macroeconomics &amp; Systemic Risk" weight="37"/>
+      <edge id="97" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="24"/>
+      <edge id="98" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Nuclear Power" weight="10"/>
+      <edge id="99" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Personal Finance &amp; Assets" weight="81"/>
+      <edge id="100" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Pollution &amp; Contamination" weight="52"/>
+      <edge id="101" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Practical Response: Adaptation &amp; Preparedness" weight="60"/>
+      <edge id="102" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="54"/>
+      <edge id="103" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Psychological Response: Fictional Description" weight="9"/>
+      <edge id="104" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Psychological Response: Mental Health &amp; Mindset" weight="58"/>
+      <edge id="105" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Real Estate Market" weight="40"/>
+      <edge id="106" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Resource Depletion &amp; Energy" weight="115"/>
+      <edge id="107" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Societal &amp; Cultural Decay" weight="40"/>
+      <edge id="108" source="Climate Change &amp; Global Warming: Ice Caps &amp; Cryosphere" target="Systemic Inequality &amp; Systemic Critique" weight="26"/>
+      <edge id="109" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="AI &amp; Robotics" weight="4"/>
+      <edge id="110" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Agriculture &amp; Food Systems" weight="36"/>
+      <edge id="111" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Community Response: Literature Reccomendation" weight="20"/>
+      <edge id="112" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="14"/>
+      <edge id="113" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Demographic Challenges" weight="5"/>
+      <edge id="114" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Ecosystem &amp; Biodiversity" weight="42"/>
+      <edge id="115" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="20"/>
+      <edge id="116" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Foreign Affairs: Migration &amp; Borders" weight="8"/>
+      <edge id="117" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Health Disaster &amp; Pandemics" weight="3"/>
+      <edge id="118" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="8"/>
+      <edge id="119" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Labor &amp; Employment" weight="9"/>
+      <edge id="120" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Macroeconomics &amp; Systemic Risk" weight="18"/>
+      <edge id="121" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="6"/>
+      <edge id="122" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Nuclear Power" weight="3"/>
+      <edge id="123" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Personal Finance &amp; Assets" weight="33"/>
+      <edge id="124" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Pollution &amp; Contamination" weight="30"/>
+      <edge id="125" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Practical Response: Adaptation &amp; Preparedness" weight="17"/>
+      <edge id="126" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="14"/>
+      <edge id="127" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Psychological Response: Fictional Description" weight="3"/>
+      <edge id="128" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Psychological Response: Mental Health &amp; Mindset" weight="15"/>
+      <edge id="129" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Real Estate Market" weight="16"/>
+      <edge id="130" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Resource Depletion &amp; Energy" weight="41"/>
+      <edge id="131" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Societal &amp; Cultural Decay" weight="8"/>
+      <edge id="132" source="Climate Change &amp; Global Warming: Ocean &amp; Hydrosphere" target="Systemic Inequality &amp; Systemic Critique" weight="15"/>
+      <edge id="133" source="Community Response: Literature Reccomendation" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="13"/>
+      <edge id="134" source="Community Response: Meta-Discussion &amp; r/collapse as Community" target="Community Response: Literature Reccomendation" weight="330"/>
+      <edge id="135" source="Community Response: Meta-Discussion &amp; r/collapse as Community" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="15"/>
+      <edge id="136" source="Demographic Challenges" target="AI &amp; Robotics" weight="5"/>
+      <edge id="137" source="Demographic Challenges" target="Community Response: Literature Reccomendation" weight="34"/>
+      <edge id="138" source="Demographic Challenges" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="32"/>
+      <edge id="139" source="Demographic Challenges" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="3"/>
+      <edge id="140" source="Demographic Challenges" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="28"/>
+      <edge id="141" source="Demographic Challenges" target="Foreign Affairs: Migration &amp; Borders" weight="19"/>
+      <edge id="142" source="Demographic Challenges" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="16"/>
+      <edge id="143" source="Demographic Challenges" target="Labor &amp; Employment" weight="30"/>
+      <edge id="144" source="Demographic Challenges" target="Macroeconomics &amp; Systemic Risk" weight="42"/>
+      <edge id="145" source="Demographic Challenges" target="Nuclear Power" weight="2"/>
+      <edge id="146" source="Demographic Challenges" target="Personal Finance &amp; Assets" weight="43"/>
+      <edge id="147" source="Demographic Challenges" target="Practical Response: Adaptation &amp; Preparedness" weight="32"/>
+      <edge id="148" source="Demographic Challenges" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="24"/>
+      <edge id="149" source="Demographic Challenges" target="Psychological Response: Fictional Description" weight="14"/>
+      <edge id="150" source="Demographic Challenges" target="Psychological Response: Mental Health &amp; Mindset" weight="40"/>
+      <edge id="151" source="Demographic Challenges" target="Real Estate Market" weight="28"/>
+      <edge id="152" source="Demographic Challenges" target="Societal &amp; Cultural Decay" weight="13"/>
+      <edge id="153" source="Demographic Challenges" target="Systemic Inequality &amp; Systemic Critique" weight="34"/>
+      <edge id="154" source="Ecosystem &amp; Biodiversity" target="AI &amp; Robotics" weight="72"/>
+      <edge id="155" source="Ecosystem &amp; Biodiversity" target="Agriculture &amp; Food Systems" weight="430"/>
+      <edge id="156" source="Ecosystem &amp; Biodiversity" target="Community Response: Literature Reccomendation" weight="300"/>
+      <edge id="157" source="Ecosystem &amp; Biodiversity" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="214"/>
+      <edge id="158" source="Ecosystem &amp; Biodiversity" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="18"/>
+      <edge id="159" source="Ecosystem &amp; Biodiversity" target="Demographic Challenges" weight="48"/>
+      <edge id="160" source="Ecosystem &amp; Biodiversity" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="268"/>
+      <edge id="161" source="Ecosystem &amp; Biodiversity" target="Foreign Affairs: Migration &amp; Borders" weight="109"/>
+      <edge id="162" source="Ecosystem &amp; Biodiversity" target="Health Disaster &amp; Pandemics" weight="67"/>
+      <edge id="163" source="Ecosystem &amp; Biodiversity" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="99"/>
+      <edge id="164" source="Ecosystem &amp; Biodiversity" target="Labor &amp; Employment" weight="164"/>
+      <edge id="165" source="Ecosystem &amp; Biodiversity" target="Macroeconomics &amp; Systemic Risk" weight="262"/>
+      <edge id="166" source="Ecosystem &amp; Biodiversity" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="47"/>
+      <edge id="167" source="Ecosystem &amp; Biodiversity" target="Nuclear Power" weight="31"/>
+      <edge id="168" source="Ecosystem &amp; Biodiversity" target="Personal Finance &amp; Assets" weight="365"/>
+      <edge id="169" source="Ecosystem &amp; Biodiversity" target="Pollution &amp; Contamination" weight="252"/>
+      <edge id="170" source="Ecosystem &amp; Biodiversity" target="Practical Response: Adaptation &amp; Preparedness" weight="353"/>
+      <edge id="171" source="Ecosystem &amp; Biodiversity" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="217"/>
+      <edge id="172" source="Ecosystem &amp; Biodiversity" target="Psychological Response: Fictional Description" weight="70"/>
+      <edge id="173" source="Ecosystem &amp; Biodiversity" target="Psychological Response: Mental Health &amp; Mindset" weight="340"/>
+      <edge id="174" source="Ecosystem &amp; Biodiversity" target="Real Estate Market" weight="189"/>
+      <edge id="175" source="Ecosystem &amp; Biodiversity" target="Societal &amp; Cultural Decay" weight="82"/>
+      <edge id="176" source="Ecosystem &amp; Biodiversity" target="Systemic Inequality &amp; Systemic Critique" weight="169"/>
+      <edge id="177" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="AI &amp; Robotics" weight="92"/>
+      <edge id="178" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Community Response: Literature Reccomendation" weight="299"/>
+      <edge id="179" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="200"/>
+      <edge id="180" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="9"/>
+      <edge id="181" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Foreign Affairs: Migration &amp; Borders" weight="163"/>
+      <edge id="182" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Labor &amp; Employment" weight="192"/>
+      <edge id="183" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Macroeconomics &amp; Systemic Risk" weight="312"/>
+      <edge id="184" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Nuclear Power" weight="86"/>
+      <edge id="185" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Personal Finance &amp; Assets" weight="376"/>
+      <edge id="186" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Practical Response: Adaptation &amp; Preparedness" weight="349"/>
+      <edge id="187" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="221"/>
+      <edge id="188" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Psychological Response: Fictional Description" weight="68"/>
+      <edge id="189" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Psychological Response: Mental Health &amp; Mindset" weight="272"/>
+      <edge id="190" source="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" target="Real Estate Market" weight="218"/>
+      <edge id="191" source="Foreign Affairs: Migration &amp; Borders" target="AI &amp; Robotics" weight="22"/>
+      <edge id="192" source="Foreign Affairs: Migration &amp; Borders" target="Community Response: Literature Reccomendation" weight="107"/>
+      <edge id="193" source="Foreign Affairs: Migration &amp; Borders" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="77"/>
+      <edge id="194" source="Foreign Affairs: Migration &amp; Borders" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="5"/>
+      <edge id="195" source="Foreign Affairs: Migration &amp; Borders" target="Labor &amp; Employment" weight="64"/>
+      <edge id="196" source="Foreign Affairs: Migration &amp; Borders" target="Macroeconomics &amp; Systemic Risk" weight="113"/>
+      <edge id="197" source="Foreign Affairs: Migration &amp; Borders" target="Nuclear Power" weight="12"/>
+      <edge id="198" source="Foreign Affairs: Migration &amp; Borders" target="Personal Finance &amp; Assets" weight="142"/>
+      <edge id="199" source="Foreign Affairs: Migration &amp; Borders" target="Practical Response: Adaptation &amp; Preparedness" weight="130"/>
+      <edge id="200" source="Foreign Affairs: Migration &amp; Borders" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="79"/>
+      <edge id="201" source="Foreign Affairs: Migration &amp; Borders" target="Psychological Response: Fictional Description" weight="33"/>
+      <edge id="202" source="Foreign Affairs: Migration &amp; Borders" target="Psychological Response: Mental Health &amp; Mindset" weight="115"/>
+      <edge id="203" source="Foreign Affairs: Migration &amp; Borders" target="Real Estate Market" weight="100"/>
+      <edge id="204" source="Health Disaster &amp; Pandemics" target="AI &amp; Robotics" weight="19"/>
+      <edge id="205" source="Health Disaster &amp; Pandemics" target="Community Response: Literature Reccomendation" weight="69"/>
+      <edge id="206" source="Health Disaster &amp; Pandemics" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="55"/>
+      <edge id="207" source="Health Disaster &amp; Pandemics" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="3"/>
+      <edge id="208" source="Health Disaster &amp; Pandemics" target="Demographic Challenges" weight="12"/>
+      <edge id="209" source="Health Disaster &amp; Pandemics" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="77"/>
+      <edge id="210" source="Health Disaster &amp; Pandemics" target="Foreign Affairs: Migration &amp; Borders" weight="21"/>
+      <edge id="211" source="Health Disaster &amp; Pandemics" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="25"/>
+      <edge id="212" source="Health Disaster &amp; Pandemics" target="Labor &amp; Employment" weight="51"/>
+      <edge id="213" source="Health Disaster &amp; Pandemics" target="Macroeconomics &amp; Systemic Risk" weight="59"/>
+      <edge id="214" source="Health Disaster &amp; Pandemics" target="Nuclear Power" weight="7"/>
+      <edge id="215" source="Health Disaster &amp; Pandemics" target="Personal Finance &amp; Assets" weight="94"/>
+      <edge id="216" source="Health Disaster &amp; Pandemics" target="Practical Response: Adaptation &amp; Preparedness" weight="82"/>
+      <edge id="217" source="Health Disaster &amp; Pandemics" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="46"/>
+      <edge id="218" source="Health Disaster &amp; Pandemics" target="Psychological Response: Fictional Description" weight="16"/>
+      <edge id="219" source="Health Disaster &amp; Pandemics" target="Psychological Response: Mental Health &amp; Mindset" weight="84"/>
+      <edge id="220" source="Health Disaster &amp; Pandemics" target="Real Estate Market" weight="62"/>
+      <edge id="221" source="Health Disaster &amp; Pandemics" target="Societal &amp; Cultural Decay" weight="24"/>
+      <edge id="222" source="Health Disaster &amp; Pandemics" target="Systemic Inequality &amp; Systemic Critique" weight="47"/>
+      <edge id="223" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="AI &amp; Robotics" weight="23"/>
+      <edge id="224" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Community Response: Literature Reccomendation" weight="104"/>
+      <edge id="225" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="87"/>
+      <edge id="226" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="6"/>
+      <edge id="227" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="175"/>
+      <edge id="228" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Foreign Affairs: Migration &amp; Borders" weight="51"/>
+      <edge id="229" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Labor &amp; Employment" weight="69"/>
+      <edge id="230" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Macroeconomics &amp; Systemic Risk" weight="110"/>
+      <edge id="231" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Nuclear Power" weight="13"/>
+      <edge id="232" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Personal Finance &amp; Assets" weight="140"/>
+      <edge id="233" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Practical Response: Adaptation &amp; Preparedness" weight="107"/>
+      <edge id="234" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="82"/>
+      <edge id="235" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Psychological Response: Fictional Description" weight="22"/>
+      <edge id="236" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Psychological Response: Mental Health &amp; Mindset" weight="123"/>
+      <edge id="237" source="Internal Affairs: Riot &amp; Murder &amp; Civil War" target="Real Estate Market" weight="94"/>
+      <edge id="238" source="Labor &amp; Employment" target="AI &amp; Robotics" weight="253"/>
+      <edge id="239" source="Labor &amp; Employment" target="Community Response: Literature Reccomendation" weight="175"/>
+      <edge id="240" source="Labor &amp; Employment" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="155"/>
+      <edge id="241" source="Labor &amp; Employment" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="6"/>
+      <edge id="242" source="Labor &amp; Employment" target="Nuclear Power" weight="17"/>
+      <edge id="243" source="Labor &amp; Employment" target="Practical Response: Adaptation &amp; Preparedness" weight="194"/>
+      <edge id="244" source="Labor &amp; Employment" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="151"/>
+      <edge id="245" source="Labor &amp; Employment" target="Psychological Response: Fictional Description" weight="42"/>
+      <edge id="246" source="Labor &amp; Employment" target="Psychological Response: Mental Health &amp; Mindset" weight="212"/>
+      <edge id="247" source="Macroeconomics &amp; Systemic Risk" target="AI &amp; Robotics" weight="97"/>
+      <edge id="248" source="Macroeconomics &amp; Systemic Risk" target="Community Response: Literature Reccomendation" weight="256"/>
+      <edge id="249" source="Macroeconomics &amp; Systemic Risk" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="203"/>
+      <edge id="250" source="Macroeconomics &amp; Systemic Risk" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="14"/>
+      <edge id="251" source="Macroeconomics &amp; Systemic Risk" target="Labor &amp; Employment" weight="293"/>
+      <edge id="252" source="Macroeconomics &amp; Systemic Risk" target="Nuclear Power" weight="34"/>
+      <edge id="253" source="Macroeconomics &amp; Systemic Risk" target="Personal Finance &amp; Assets" weight="458"/>
+      <edge id="254" source="Macroeconomics &amp; Systemic Risk" target="Practical Response: Adaptation &amp; Preparedness" weight="279"/>
+      <edge id="255" source="Macroeconomics &amp; Systemic Risk" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="190"/>
+      <edge id="256" source="Macroeconomics &amp; Systemic Risk" target="Psychological Response: Fictional Description" weight="67"/>
+      <edge id="257" source="Macroeconomics &amp; Systemic Risk" target="Psychological Response: Mental Health &amp; Mindset" weight="299"/>
+      <edge id="258" source="Macroeconomics &amp; Systemic Risk" target="Real Estate Market" weight="306"/>
+      <edge id="259" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="AI &amp; Robotics" weight="14"/>
+      <edge id="260" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Community Response: Literature Reccomendation" weight="57"/>
+      <edge id="261" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="33"/>
+      <edge id="262" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="2"/>
+      <edge id="263" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="60"/>
+      <edge id="264" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Foreign Affairs: Migration &amp; Borders" weight="23"/>
+      <edge id="265" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Health Disaster &amp; Pandemics" weight="12"/>
+      <edge id="266" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="22"/>
+      <edge id="267" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Labor &amp; Employment" weight="37"/>
+      <edge id="268" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Macroeconomics &amp; Systemic Risk" weight="47"/>
+      <edge id="269" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Nuclear Power" weight="7"/>
+      <edge id="270" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Personal Finance &amp; Assets" weight="65"/>
+      <edge id="271" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Practical Response: Adaptation &amp; Preparedness" weight="53"/>
+      <edge id="272" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="33"/>
+      <edge id="273" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Psychological Response: Fictional Description" weight="5"/>
+      <edge id="274" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Psychological Response: Mental Health &amp; Mindset" weight="47"/>
+      <edge id="275" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Real Estate Market" weight="52"/>
+      <edge id="276" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Societal &amp; Cultural Decay" weight="20"/>
+      <edge id="277" source="Natural Disaster (Geosphere &amp; Seismic Activity)" target="Systemic Inequality &amp; Systemic Critique" weight="27"/>
+      <edge id="278" source="Nuclear Power" target="AI &amp; Robotics" weight="11"/>
+      <edge id="279" source="Nuclear Power" target="Community Response: Literature Reccomendation" weight="27"/>
+      <edge id="280" source="Nuclear Power" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="13"/>
+      <edge id="281" source="Nuclear Power" target="Practical Response: Adaptation &amp; Preparedness" weight="30"/>
+      <edge id="282" source="Nuclear Power" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="13"/>
+      <edge id="283" source="Nuclear Power" target="Psychological Response: Fictional Description" weight="6"/>
+      <edge id="284" source="Nuclear Power" target="Psychological Response: Mental Health &amp; Mindset" weight="22"/>
+      <edge id="285" source="Personal Finance &amp; Assets" target="AI &amp; Robotics" weight="111"/>
+      <edge id="286" source="Personal Finance &amp; Assets" target="Community Response: Literature Reccomendation" weight="388"/>
+      <edge id="287" source="Personal Finance &amp; Assets" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="284"/>
+      <edge id="288" source="Personal Finance &amp; Assets" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="20"/>
+      <edge id="289" source="Personal Finance &amp; Assets" target="Labor &amp; Employment" weight="318"/>
+      <edge id="290" source="Personal Finance &amp; Assets" target="Nuclear Power" weight="46"/>
+      <edge id="291" source="Personal Finance &amp; Assets" target="Practical Response: Adaptation &amp; Preparedness" weight="455"/>
+      <edge id="292" source="Personal Finance &amp; Assets" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="271"/>
+      <edge id="293" source="Personal Finance &amp; Assets" target="Psychological Response: Fictional Description" weight="102"/>
+      <edge id="294" source="Personal Finance &amp; Assets" target="Psychological Response: Mental Health &amp; Mindset" weight="453"/>
+      <edge id="295" source="Personal Finance &amp; Assets" target="Real Estate Market" weight="580"/>
+      <edge id="296" source="Pollution &amp; Contamination" target="AI &amp; Robotics" weight="58"/>
+      <edge id="297" source="Pollution &amp; Contamination" target="Agriculture &amp; Food Systems" weight="302"/>
+      <edge id="298" source="Pollution &amp; Contamination" target="Community Response: Literature Reccomendation" weight="210"/>
+      <edge id="299" source="Pollution &amp; Contamination" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="130"/>
+      <edge id="300" source="Pollution &amp; Contamination" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="5"/>
+      <edge id="301" source="Pollution &amp; Contamination" target="Demographic Challenges" weight="31"/>
+      <edge id="302" source="Pollution &amp; Contamination" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="207"/>
+      <edge id="303" source="Pollution &amp; Contamination" target="Foreign Affairs: Migration &amp; Borders" weight="64"/>
+      <edge id="304" source="Pollution &amp; Contamination" target="Health Disaster &amp; Pandemics" weight="43"/>
+      <edge id="305" source="Pollution &amp; Contamination" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="66"/>
+      <edge id="306" source="Pollution &amp; Contamination" target="Labor &amp; Employment" weight="133"/>
+      <edge id="307" source="Pollution &amp; Contamination" target="Macroeconomics &amp; Systemic Risk" weight="194"/>
+      <edge id="308" source="Pollution &amp; Contamination" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="43"/>
+      <edge id="309" source="Pollution &amp; Contamination" target="Nuclear Power" weight="28"/>
+      <edge id="310" source="Pollution &amp; Contamination" target="Personal Finance &amp; Assets" weight="288"/>
+      <edge id="311" source="Pollution &amp; Contamination" target="Practical Response: Adaptation &amp; Preparedness" weight="182"/>
+      <edge id="312" source="Pollution &amp; Contamination" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="146"/>
+      <edge id="313" source="Pollution &amp; Contamination" target="Psychological Response: Fictional Description" weight="35"/>
+      <edge id="314" source="Pollution &amp; Contamination" target="Psychological Response: Mental Health &amp; Mindset" weight="200"/>
+      <edge id="315" source="Pollution &amp; Contamination" target="Real Estate Market" weight="178"/>
+      <edge id="316" source="Pollution &amp; Contamination" target="Societal &amp; Cultural Decay" weight="74"/>
+      <edge id="317" source="Pollution &amp; Contamination" target="Systemic Inequality &amp; Systemic Critique" weight="116"/>
+      <edge id="318" source="Practical Response: Adaptation &amp; Preparedness" target="Community Response: Literature Reccomendation" weight="320"/>
+      <edge id="319" source="Practical Response: Adaptation &amp; Preparedness" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="264"/>
+      <edge id="320" source="Practical Response: Adaptation &amp; Preparedness" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="13"/>
+      <edge id="321" source="Practical Response: Adaptation &amp; Preparedness" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="224"/>
+      <edge id="322" source="Practical Response: Public Awareness &amp; Media &amp; Information" target="Community Response: Literature Reccomendation" weight="521"/>
+      <edge id="323" source="Practical Response: Public Awareness &amp; Media &amp; Information" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="225"/>
+      <edge id="324" source="Practical Response: Public Awareness &amp; Media &amp; Information" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="11"/>
+      <edge id="325" source="Psychological Response: Fictional Description" target="Community Response: Literature Reccomendation" weight="311"/>
+      <edge id="326" source="Psychological Response: Fictional Description" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="75"/>
+      <edge id="327" source="Psychological Response: Fictional Description" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="3"/>
+      <edge id="328" source="Psychological Response: Fictional Description" target="Practical Response: Adaptation &amp; Preparedness" weight="85"/>
+      <edge id="329" source="Psychological Response: Fictional Description" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="68"/>
+      <edge id="330" source="Psychological Response: Mental Health &amp; Mindset" target="Community Response: Literature Reccomendation" weight="359"/>
+      <edge id="331" source="Psychological Response: Mental Health &amp; Mindset" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="333"/>
+      <edge id="332" source="Psychological Response: Mental Health &amp; Mindset" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="24"/>
+      <edge id="333" source="Psychological Response: Mental Health &amp; Mindset" target="Practical Response: Adaptation &amp; Preparedness" weight="392"/>
+      <edge id="334" source="Psychological Response: Mental Health &amp; Mindset" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="263"/>
+      <edge id="335" source="Psychological Response: Mental Health &amp; Mindset" target="Psychological Response: Fictional Description" weight="84"/>
+      <edge id="336" source="Real Estate Market" target="AI &amp; Robotics" weight="62"/>
+      <edge id="337" source="Real Estate Market" target="Community Response: Literature Reccomendation" weight="230"/>
+      <edge id="338" source="Real Estate Market" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="167"/>
+      <edge id="339" source="Real Estate Market" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="9"/>
+      <edge id="340" source="Real Estate Market" target="Labor &amp; Employment" weight="173"/>
+      <edge id="341" source="Real Estate Market" target="Nuclear Power" weight="14"/>
+      <edge id="342" source="Real Estate Market" target="Practical Response: Adaptation &amp; Preparedness" weight="274"/>
+      <edge id="343" source="Real Estate Market" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="156"/>
+      <edge id="344" source="Real Estate Market" target="Psychological Response: Fictional Description" weight="56"/>
+      <edge id="345" source="Real Estate Market" target="Psychological Response: Mental Health &amp; Mindset" weight="255"/>
+      <edge id="346" source="Resource Depletion &amp; Energy" target="AI &amp; Robotics" weight="133"/>
+      <edge id="347" source="Resource Depletion &amp; Energy" target="Agriculture &amp; Food Systems" weight="696"/>
+      <edge id="348" source="Resource Depletion &amp; Energy" target="Community Response: Literature Reccomendation" weight="503"/>
+      <edge id="349" source="Resource Depletion &amp; Energy" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="346"/>
+      <edge id="350" source="Resource Depletion &amp; Energy" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="15"/>
+      <edge id="351" source="Resource Depletion &amp; Energy" target="Demographic Challenges" weight="58"/>
+      <edge id="352" source="Resource Depletion &amp; Energy" target="Ecosystem &amp; Biodiversity" weight="515"/>
+      <edge id="353" source="Resource Depletion &amp; Energy" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="661"/>
+      <edge id="354" source="Resource Depletion &amp; Energy" target="Foreign Affairs: Migration &amp; Borders" weight="188"/>
+      <edge id="355" source="Resource Depletion &amp; Energy" target="Health Disaster &amp; Pandemics" weight="103"/>
+      <edge id="356" source="Resource Depletion &amp; Energy" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="159"/>
+      <edge id="357" source="Resource Depletion &amp; Energy" target="Labor &amp; Employment" weight="298"/>
+      <edge id="358" source="Resource Depletion &amp; Energy" target="Macroeconomics &amp; Systemic Risk" weight="537"/>
+      <edge id="359" source="Resource Depletion &amp; Energy" target="Natural Disaster (Geosphere &amp; Seismic Activity)" weight="87"/>
+      <edge id="360" source="Resource Depletion &amp; Energy" target="Nuclear Power" weight="88"/>
+      <edge id="361" source="Resource Depletion &amp; Energy" target="Personal Finance &amp; Assets" weight="707"/>
+      <edge id="362" source="Resource Depletion &amp; Energy" target="Pollution &amp; Contamination" weight="420"/>
+      <edge id="363" source="Resource Depletion &amp; Energy" target="Practical Response: Adaptation &amp; Preparedness" weight="539"/>
+      <edge id="364" source="Resource Depletion &amp; Energy" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="341"/>
+      <edge id="365" source="Resource Depletion &amp; Energy" target="Psychological Response: Fictional Description" weight="119"/>
+      <edge id="366" source="Resource Depletion &amp; Energy" target="Psychological Response: Mental Health &amp; Mindset" weight="487"/>
+      <edge id="367" source="Resource Depletion &amp; Energy" target="Real Estate Market" weight="446"/>
+      <edge id="368" source="Resource Depletion &amp; Energy" target="Societal &amp; Cultural Decay" weight="146"/>
+      <edge id="369" source="Resource Depletion &amp; Energy" target="Systemic Inequality &amp; Systemic Critique" weight="311"/>
+      <edge id="370" source="Societal &amp; Cultural Decay" target="AI &amp; Robotics" weight="39"/>
+      <edge id="371" source="Societal &amp; Cultural Decay" target="Community Response: Literature Reccomendation" weight="100"/>
+      <edge id="372" source="Societal &amp; Cultural Decay" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="69"/>
+      <edge id="373" source="Societal &amp; Cultural Decay" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="4"/>
+      <edge id="374" source="Societal &amp; Cultural Decay" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="112"/>
+      <edge id="375" source="Societal &amp; Cultural Decay" target="Foreign Affairs: Migration &amp; Borders" weight="40"/>
+      <edge id="376" source="Societal &amp; Cultural Decay" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="84"/>
+      <edge id="377" source="Societal &amp; Cultural Decay" target="Labor &amp; Employment" weight="83"/>
+      <edge id="378" source="Societal &amp; Cultural Decay" target="Macroeconomics &amp; Systemic Risk" weight="107"/>
+      <edge id="379" source="Societal &amp; Cultural Decay" target="Nuclear Power" weight="15"/>
+      <edge id="380" source="Societal &amp; Cultural Decay" target="Personal Finance &amp; Assets" weight="131"/>
+      <edge id="381" source="Societal &amp; Cultural Decay" target="Practical Response: Adaptation &amp; Preparedness" weight="83"/>
+      <edge id="382" source="Societal &amp; Cultural Decay" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="91"/>
+      <edge id="383" source="Societal &amp; Cultural Decay" target="Psychological Response: Fictional Description" weight="17"/>
+      <edge id="384" source="Societal &amp; Cultural Decay" target="Psychological Response: Mental Health &amp; Mindset" weight="95"/>
+      <edge id="385" source="Societal &amp; Cultural Decay" target="Real Estate Market" weight="71"/>
+      <edge id="386" source="Societal &amp; Cultural Decay" target="Systemic Inequality &amp; Systemic Critique" weight="85"/>
+      <edge id="387" source="Systemic Inequality &amp; Systemic Critique" target="AI &amp; Robotics" weight="56"/>
+      <edge id="388" source="Systemic Inequality &amp; Systemic Critique" target="Community Response: Literature Reccomendation" weight="187"/>
+      <edge id="389" source="Systemic Inequality &amp; Systemic Critique" target="Community Response: Meta-Discussion &amp; r/collapse as Community" weight="155"/>
+      <edge id="390" source="Systemic Inequality &amp; Systemic Critique" target="Community Response: Skepticism of Climate Change &amp; Collapse" weight="14"/>
+      <edge id="391" source="Systemic Inequality &amp; Systemic Critique" target="Foreign Affairs: Geopolitics &amp; Conflict &amp; War &amp; Military" weight="233"/>
+      <edge id="392" source="Systemic Inequality &amp; Systemic Critique" target="Foreign Affairs: Migration &amp; Borders" weight="87"/>
+      <edge id="393" source="Systemic Inequality &amp; Systemic Critique" target="Internal Affairs: Riot &amp; Murder &amp; Civil War" weight="73"/>
+      <edge id="394" source="Systemic Inequality &amp; Systemic Critique" target="Labor &amp; Employment" weight="180"/>
+      <edge id="395" source="Systemic Inequality &amp; Systemic Critique" target="Macroeconomics &amp; Systemic Risk" weight="444"/>
+      <edge id="396" source="Systemic Inequality &amp; Systemic Critique" target="Nuclear Power" weight="18"/>
+      <edge id="397" source="Systemic Inequality &amp; Systemic Critique" target="Personal Finance &amp; Assets" weight="253"/>
+      <edge id="398" source="Systemic Inequality &amp; Systemic Critique" target="Practical Response: Adaptation &amp; Preparedness" weight="196"/>
+      <edge id="399" source="Systemic Inequality &amp; Systemic Critique" target="Practical Response: Public Awareness &amp; Media &amp; Information" weight="140"/>
+      <edge id="400" source="Systemic Inequality &amp; Systemic Critique" target="Psychological Response: Fictional Description" weight="53"/>
+      <edge id="401" source="Systemic Inequality &amp; Systemic Critique" target="Psychological Response: Mental Health &amp; Mindset" weight="188"/>
+      <edge id="402" source="Systemic Inequality &amp; Systemic Critique" target="Real Estate Market" weight="155"/>
+    </edges>
+  </graph>
+</gexf>
+
